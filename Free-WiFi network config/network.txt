@@ -1,0 +1,1 @@
+{"net_type":"W","net_mode":"D","ssid":"Free-WiFi","psk":"ftp03xa8n12rr"}

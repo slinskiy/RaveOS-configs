@@ -1,0 +1,1 @@
+{"net_type":"W","net_mode":"D","ssid":"SSID","psk":"PSK_KEY"}
